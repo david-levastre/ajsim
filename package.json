@@ -1,0 +1,24 @@
+{
+  "name": "ajsim",
+  "version": "1.0.0",
+  "description": "simulateur d'éligibilité à l'aide juridictionnelle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-levastre/ajsim.git"
+  },
+  "keywords": [
+    "aide",
+    "juridictionnelle",
+    "simulateur"
+  ],
+  "author": "David A. LEVASTRE - BODOULE SOSSO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-levastre/ajsim/issues"
+  },
+  "homepage": "https://github.com/david-levastre/ajsim#readme"
+}
