@@ -1,6 +1,6 @@
 # LISEZ-MOI
 
-"ajsim", simulateur d'éligibilité à l'aide juridictionnelle française.
+"ajsim", simulateur d'éligibilité à l'aide juridictionnelle française. Une condition reste à coder : la condition de ressources.
 
 ## Support
 
